@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+python-dotenv>=1.0.1
+yt-dlp>=2024.11.18
+static-ffmpeg>=2.7
+faster-whisper>=1.1.0
+audio-separator[cpu]>=0.24.0
+audioread>=3.0.1
+google-genai>=1.0.0

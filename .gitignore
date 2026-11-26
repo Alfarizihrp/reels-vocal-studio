@@ -1,0 +1,19 @@
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/workspace/
+backend/outputs/
+backend/models/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Vercel & OS
+.vercel
+.DS_Store
+Thumbs.db
