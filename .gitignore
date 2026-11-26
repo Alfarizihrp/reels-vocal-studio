@@ -17,3 +17,6 @@ frontend/.env.local
 .vercel
 .DS_Store
 Thumbs.db
+cloudflared.exe
+
+.vercel
